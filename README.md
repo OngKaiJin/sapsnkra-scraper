@@ -1,5 +1,7 @@
 # sapsnkra-scraper
 Collect Malaysian NRIC numbers using bruteforce, then scrapes name and school code, through https://sapsnkra.moe.gov.my/ibubapa2/semak.php
+
+See examples of scraped IC and names born in Melaka year 2005 [here](https://github.com/OngKaiJin/sapsnkra-scraper/blob/main/example/amogus(3).json)
 > only works for newer NRIC
 
 ## Usage
